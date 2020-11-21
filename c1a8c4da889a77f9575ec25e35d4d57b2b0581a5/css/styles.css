@@ -574,7 +574,7 @@ pre code {
   }
 }
 
-.modal-content .container { width: 100%}
+.modal-content .container {max-width: 100%}
 
 .row {
   display: flex;
