@@ -10092,9 +10092,6 @@ img::-moz-selection {
     opacity: 0.0;
     transition: font-size 0.3s ease-in-out, opacity 0.3s ease-in-out;
   }
-  #mainNav .navbar-brand img {
-    height: 2rem;
-  }
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
